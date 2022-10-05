@@ -73,7 +73,7 @@ npm start
 
 ### Production
 
-Compile source code from **src** and create an optimized production bundle in **dist** folder ready for **deployment**.
+Compile source code from **src** and create an optimized production bundle in **docs** folder ready for **deployment**.
 
 ```
 npm run build
